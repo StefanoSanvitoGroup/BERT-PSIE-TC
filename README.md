@@ -6,9 +6,13 @@ The BERT-PSIE pipeline presented in:
 > add arxiv paper link
 
 consists of a series of BERT models fine-tuned on different downstream tasks for the automatic extraction of data from the scientific literature.
-| <img src="./images/hist_comparison.png" width=700 > |
+| <img src="./images/pipeline.png" width=700 > |
+|:--:|
+| Schematic diagram of the BERT-PSIE pipeline for the automated extraction of compound-property pairs from scientific literature. The
+workflow relies on the combination of BERT models fine-tuned for different downstream tasks such as sentence classification, named entity
+recognition and relation classification. |
 
-
+Here we provide the dataset of Curie Temperatures automatically extracted by BERT-PSIE (Tc_dataset.csv). We chose this task so that we could compare the extraction performance against a manually curated dataset (expanded from [1]) and a dataset of Curie Temperatures automatically extracted with rule-based methods [2]. 
 
 | <img src="./images/hist_comparison.png" width=700 > |
 |:--:|
