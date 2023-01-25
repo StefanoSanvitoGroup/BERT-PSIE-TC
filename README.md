@@ -5,7 +5,7 @@ The BERT-PSIE pipeline presented in:
 
 > add arxiv paper link
 
-consists of a series of BERT models fine-tuned on different downstream tasks for the automatic extraction of data from the scientific literature:
+consists of a series of BERT models fine-tuned on different downstream tasks for the automated extraction of data from scientific literature:
 | <img src="./images/pipeline.png" width=700 > |
 |:--:|
 | <sup>  Schematic diagram of the BERT-PSIE pipeline for the automated extraction of compound-property pairs from scientific literature. The workflow relies on the combination of BERT models fine-tuned for different downstream tasks such as sentence classification, named entity recognition and relation classification. </sup> |
