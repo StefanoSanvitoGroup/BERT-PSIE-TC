@@ -25,11 +25,6 @@ The script train_RF.py trains a random forest predictor for the Curie Temperatur
 
 ### References
 
-[1] C. J. Court and J. M. Cole, Auto-generated materials database
-of Curie and Neel temperatures via semi-supervised relation-
-ship extraction, Sci. Data 5, 180111 (2018).
+[1] C. J. Court and J. M. Cole, Auto-generated materials database of Curie and Neel temperatures via semi-supervised relation-ship extraction, Sci. Data 5, 180111 (2018).
 
-[2] J. Nelson and S. Sanvito, Predicting the curie temperature of
-ferromagnets using machine learning, Phys. Rev. Materials 3,
-104405 (2019).
-
+[2] J. Nelson and S. Sanvito, Predicting the curie temperature of ferromagnets using machine learning, Phys. Rev. Materials 3, 104405 (2019).
