@@ -21,7 +21,7 @@ The script train_RF.py trains a random forest predictor for the Curie Temperatur
 
 | <img src="./fig/screening.png" width=350 > |
 |:--:|
-| <sup> Violin plots showing the TC distributions of the compounds screened using a RF model trained on the BERT-PSIE data and compared with the manually extracted values (top panel). The dashed line is the parity line highlighting how the median of the screened distribution increases as the screening threshold increases. Despite a low recall, the precision is high enough to select compounds likely to have a TC higher than a given threshold. The screening is done on compounds not present in the training set of the RF. </sup. |
+| <sup> Violin plots showing the TC distributions of the compounds screened using a RF model trained on the BERT-PSIE data and compared with the manually extracted values (top panel). The dashed line is the parity line highlighting how the median of the screened distribution increases as the screening threshold increases. Despite a low recall, the precision is high enough to select compounds likely to have a TC higher than a given threshold. The screening is done on compounds not present in the training set of the RF.</sup> |
 
 ### References
 
