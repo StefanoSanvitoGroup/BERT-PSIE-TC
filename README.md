@@ -16,7 +16,7 @@ Here we provide the dataset of Curie Temperatures automatically extracted by BER
 |:--:|
 | <sup> Comparison between the content of three different databases: (red box) BERT-PSIE (provided here), (blue box) ChemDataExtractor [1] and (green box) the manually-extracted database of Ref. [2]. Top panel: Normalized distribution of the Curie temperatures extracted. A peak is visible in the distribution around 300 K in both the autonomously extracted databases, which is not seen in the manually extracted one. Bottom panel: Relative elemental abundance across the compounds present in a database. Although there is general agreement among the three databases, additional peaks are observed for various elements in the case of automatically extracted data, which are not present in the manually curated dataset. The most severe of these discrepancies is in the relative abundance of Mn- and O-containing compounds. Note that the automatically extracted datasets and the manually curated one are based on different literature librarie. </sup> |
 
-The script train_RF.py trains a random forest predictor for the Curie Temperature over the Tc dataset. The model can be used to screen ferroelettric candidates based on their predicted Curie temperature.
+The script train_RF.py trains a random forest predictor (RF) for the Curie Temperature over the Tc dataset. The model can be used to screen ferroelettric candidates based on their predicted Curie temperature.
 
 
 | <img src="./fig/screening.png" width=350 > |
