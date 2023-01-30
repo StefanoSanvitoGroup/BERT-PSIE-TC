@@ -1,5 +1,5 @@
 # BERT-PSIE-TC
-A dataset of Curie temperatures automatically extracted from scientific literature with the use of BERT-PSIE pipeline presented in:
+A dataset of Curie temperatures automatically extracted from scientific literature with the use of the BERT-PSIE pipeline presented in:
 
 > https://arxiv.org/abs/2301.11689
 
