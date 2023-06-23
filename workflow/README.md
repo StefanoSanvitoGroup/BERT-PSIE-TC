@@ -22,6 +22,12 @@ Each notebook focusses on each different downstream task. The order in which the
 <li> <b>relation.ipynb</b>
 </ol>
 
+The weights of the fine-tuned models can be found on figshare at the following link:
+
+>
+> https://doi.org/10.6084/m9.figshare.23567121.v1
+>
+
 The initial corpus given as input to the classifier is expected to be formatted as a JSON file consisting of multiple JSON objects each one including a sentence and its source:
 
 >
