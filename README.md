@@ -1,14 +1,15 @@
 # BERT-PSIE-TC
-A dataset of Curie temperatures automatically extracted from scientific literature with the use of the BERT-PSIE pipeline presented in:
+A dataset of Curie temperatures and band gaps automatically extracted from scientific literature with the use of the BERT-PSIE workflow presented in:
 
 > https://arxiv.org/abs/2301.11689
 
-consists of a series of BERT models fine-tuned on different downstream tasks for the automated extraction of data from scientific literature:
+This workflow consists of a series of BERT models fine-tuned on different downstream tasks. The workflow folder contains the code necessary to fine-tune these models togheter with notebooks that show how to deploy it for the tasks explored in the paper.
+
 | <img src="./fig/pipeline.png" width=700 > |
 |:--:|
 | <sup>  Schematic diagram of the BERT-PSIE pipeline for the automated extraction of compound-property pairs from scientific literature. The workflow relies on the combination of BERT models fine-tuned for different downstream tasks such as sentence classification, named entity recognition and relation classification. </sup> |
 
-Here we provide the dataset of Curie Temperatures automatically extracted by BERT-PSIE (Tc_dataset.csv). We chose this task so that we could compare the extraction performance against a manually curated dataset (expanded from [1]) and a dataset of Curie Temperatures automatically extracted with rule-based methods [2]. 
+Here we provide the dataset of Curie Temperatures and band gap automatically extracted by BERT-PSIE (Tc_dataset.csv, gap_dataset.csv). We chose this tasks so that we could compare the extraction performance against a manually curated dataset (expanded from [1]) and a dataset of Curie Temperatures automatically extracted with rule-based methods [2]. 
 
 | <img src="./fig/hist_comparison.png" width=700 > |
 |:--:|
