@@ -1,0 +1,64 @@
+compound,Gap,source
+MoS2,2 . 4 - 2 . 7 eV ,0
+C3NH,5 eV ,2
+silicon,1 . 5 - 2 . 2 eV,3
+graphene,0 . 8 eV,7
+SnS,2 . 07 to 1 . 30 eV,9
+LiF,6.8eV,10
+LiF,3.9eV,10
+RbI,3.9eV,10
+BiTl9Te6,0.589eV,15
+SbTl9Te6,0.538eV,15
+TiO2,3 . 0 eV to 1 . 8 eV ,16
+graphene,(9.2,17
+Silicene,0 . 02 eV,17
+Be3B2C3,1 . 97 eV,27
+-MoGe2Z4,237 meV,30
+graphene,1 . 9 eV ,45
+SbVO4,1 . 89 eV to 2 . 36 eV,49
+Cu2O,1.88-2.36eV,50
+Cu2O,-,50
+BiTl9Te6,0.256eV,52
+SbTl9Te6,0.374eV,52
+YPtSb,0.1-0.15eV,54
+InAs,0 . 39 eV,57
+Sn(SCN)2,3 . 9 eV,60
+e,1 . 49 eV,64
+TiO2,3.81eV,68
+Si,2 . 2 eV ,76
+ZrTe5,100 meV,77
+Bi4Br4,0.29eV,84
+Bi4Br4,(0.2eV),84
+Bi4Br4,29,84
+Bi4Br4,(0.18eV),84
+Bi4Br4,(0.1eV),84
+stanene,(0.1eV),84
+Si,1.12eV,95
+GaAs,1.12eV,95
+GaAs,1.43eV,95
+ZnIn2S4,3.94,97
+ZnIn2Se4,2.77eV,97
+ZnIn2Te4,1.84eV,97
+BaHfO3,3 . 11 eV,99
+Si,1.16eV,101
+Si,3.32eV,101
+GaN,3.32eV,101
+ZnO,3.48eV,101
+ CdFeP2Se6,2 . 23 eV ,102
+Gd2,0 . 8 eV ,112
+SiC2,0 . 02 eV,116
+NiO,3 . 6 eV,129
+C60,2 . 5 eV,131
+phosphorus,10 meV,138
+PG,3 . 25 eV ,144
+-graphdiyne,1 . 15 eV,146
+TiS3,1 . 1 eV,153
+ZnO,,161
+germanium,7,164
+NbOXY,1 . 9 eV ,175
+-TiO2,3 . 25 eV,180
+NiCl3,24 meV,185
+Al0.4Ga0.6As,2,188
+Al0.4Ga0.6As,37,188
+phosphorus,0 . 6 eV ,192
+graphene,0 . 81 8 eV,196
